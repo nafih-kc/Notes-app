@@ -1,7 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite' // imports the Tailwind plugin
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  plugins: [react(), tailwindcss()], // tells Vite to use React and Tailwind
-})
+  base: "/Notes-app/",
+  plugins: [react(), tailwindcss()],
+});

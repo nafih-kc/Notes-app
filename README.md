@@ -1,16 +1,28 @@
-# React + Vite
+# My Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A notes app built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+[Open the live app](https://nafih-kc.github.io/Notes-app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Create, edit, and delete notes
+- Choose colors, add tags, and search notes
+- Pin and archive notes
+- Save notes in your browser
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<details>
+<summary>Run the app on your computer</summary>
 
-## Expanding the ESLint configuration
+1. Open a terminal in the project folder.
+2. Run `npm install`.
+3. Run `npm run dev`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+</details>
+
+<details>
+<summary>Publish the app</summary>
+
+Open a terminal in the project folder and run `npm run deploy`.
+
+</details>

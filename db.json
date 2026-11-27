@@ -1,0 +1,17 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Team Meeting",
+      "content": "Discuss the roadmap, upcoming priorities, and project deadlines.",
+      "color": "bg-yellow-100",
+      "tags": ["work"],
+      "archived": false,
+      "stock": 0,
+      "pinned": false,
+      "createdAt": "2026-02-10T10:00:00.000Z",
+      "updatedAt": "2026-02-10T10:00:00.000Z"
+    }
+  ]
+}
+
